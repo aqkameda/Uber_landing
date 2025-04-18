@@ -8,11 +8,12 @@
 
 - **HTML5**  
 - **CSS3**  
-- *(Optional: JavaScript, if used)*
+- *SCSS*
 
 ---
 
 ## **🚀 How to Run
 1. Clone the repository
 2. Open index.html in your browser**
+
 
