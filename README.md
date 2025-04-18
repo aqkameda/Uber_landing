@@ -14,6 +14,6 @@ A simple landing page inspired by Uber’s design. Created for practicing web la
 
 ## **🚀 How to Run**
 1. Clone the repository
-2. Open index.html in your browser**
+2. Open index.html in your browser
 
 
