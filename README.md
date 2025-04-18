@@ -12,12 +12,7 @@
 
 ---
 
-## **📸 Preview**
-
-*You can add a screenshot or a live demo link here.*  
-**[Live Demo](#)** *(Replace with the actual link)*
-
----
-
-## **📁 Project Structure**
+## **🚀 How to Run
+1. Clone the repository
+2. Open index.html in your browser**
 
