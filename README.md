@@ -1,6 +1,4 @@
-# Создаем файл README.md с оформленным содержимым
-
-readme_content = """# **🚗 Uber Landing Page**
+### 🚗 Uber Landing Page**
 
 **A simple landing page inspired by Uber’s design. Created for practicing web layout and UI design.**
 
