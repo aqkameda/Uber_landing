@@ -6,9 +6,9 @@
 
 ## **🛠 Technologies Used**
 
-- **HTML5**  
-- **CSS3**  
-- *SCSS*
+- HTML5  
+- CSS3  
+- SCSS
 
 ---
 
